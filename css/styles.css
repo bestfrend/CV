@@ -1,0 +1,87 @@
+body {
+  background-color: #EAF6F6;
+  padding-left: 0%;
+}
+
+h1, h3, h4 {
+  color: #66BFBF;
+
+}
+
+
+
+
+
+hr {
+  background-color: white;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%
+}
+
+li {
+  padding-top: 12px;
+}
+
+img:hover {
+  background-color: gold;
+}
+
+.lygis {
+  color: #c5c5c5;
+}
+
+.kita {
+  padding: 1%;
+}
+/********************Other class selectors**********************************/
+
+
+.Bacon {
+  background-color: green;
+}
+
+.broccoli {
+  background-color: red;
+}
+
+.circular {
+  border-radius: 100%;
+}
+
+/********************Other ID selectors**********************************/
+
+#certificate {
+  padding-left: 2%;
+}
+
+#tindog {
+  padding-left: 2%;
+}
+#Tautvydas_foto {
+    height: 200px;
+    border-radius: 100%;
+}
+
+#heading {
+  color: blue;
+}
+
+#big {
+  font-size: 1000px;
+}
+
+#kiti {
+  background-color: white;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 2px;
+  width: 100%
+}
+#daugiau {
+  text-align: center;
+
+}
